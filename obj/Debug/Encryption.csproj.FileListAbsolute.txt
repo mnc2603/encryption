@@ -1,0 +1,12 @@
+C:\Users\Matt\Desktop\Projects\Encryption\bin\Debug\Encryption.exe.config
+C:\Users\Matt\Desktop\Projects\Encryption\bin\Debug\Encryption.exe
+C:\Users\Matt\Desktop\Projects\Encryption\bin\Debug\Encryption.pdb
+C:\Users\Matt\Desktop\Projects\Encryption\obj\Debug\Encryption.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\Projects\Encryption\obj\Debug\Encryption.exe
+C:\Users\Matt\Desktop\Projects\Encryption\obj\Debug\Encryption.pdb
+C:\Users\Matt\Desktop\My Work\Programming\Encryption\bin\Debug\Encryption.exe.config
+C:\Users\Matt\Desktop\My Work\Programming\Encryption\obj\Debug\Encryption.exe
+C:\Users\Matt\Desktop\My Work\Programming\Encryption\obj\Debug\Encryption.pdb
+C:\Users\Matt\Desktop\My Work\Programming\Encryption\bin\Debug\Encryption.exe
+C:\Users\Matt\Desktop\My Work\Programming\Encryption\bin\Debug\Encryption.pdb
+C:\Users\Matt\Desktop\My Work\Programming\Encryption\obj\Debug\Encryption.csprojResolveAssemblyReference.cache
